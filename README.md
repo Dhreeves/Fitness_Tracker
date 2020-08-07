@@ -11,6 +11,8 @@ HTLM, CSS, Javascript, Node.js, Core-util-is, Express, Mongodb, Mongoose, Morgan
 
 ## Deployment Link:
 https://gentle-sierra-49361.herokuapp.com/
+![FitnessHome](https://user-images.githubusercontent.com/34249881/89671366-78bd5200-d8a8-11ea-96e6-3928c49198a5.png)
+
 
 ## Author: 
 Diane Reeves
