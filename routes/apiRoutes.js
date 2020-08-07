@@ -23,7 +23,7 @@ module.exports = function (app) {
     });
 
     app.get("/api/workouts/range", function (req, res) {
-        workout.find()
+        Workout.find()
             .then(data => {
                 res.json(data);
             })
